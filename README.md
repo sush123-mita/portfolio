@@ -1,5 +1,7 @@
 # Sushmita.exe — Developer Portfolio
 
+https://portfolio-phi-snowy-cikkegrm8a.vercel.app/
+
 A responsive React + Vite portfolio with a rose-glow theme, light/dark mode toggle, an animated cartoon developer character, looping background music, famous GIF memes, projects, experience, achievements, LeetCode profile link, and contact cards.
 
 ## Run locally
